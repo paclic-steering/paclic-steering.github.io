@@ -4,7 +4,7 @@ title: Home
 
 # Recent PACLIC conference
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="paclic2024.jpg" alt="intro image here" caption="PACLIC 2024, Tokyo" width="75%" %}
 
  <div class="entry-content">
                             <p>Since the 18th Pacific Asia Conference on Language, Information and Computation, each PACLIC conference is organized under the auspices of the PACLIC Steering Committee.</p>
