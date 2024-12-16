@@ -4,7 +4,7 @@ title: Home
 
 # Recent PACLIC conference
 
-{% include figure.html img="paclic2024.jpg" alt="intro image here" caption="PACLIC 2024, Tokyo" width="75%" %}
+{% include figure.html img="paclic2024.jpg" alt="intro image here" caption="PACLIC 2024, Tokyo" width="50%" %}
 
  <div class="entry-content">
                             <p>Since the 18th Pacific Asia Conference on Language, Information and Computation, each PACLIC conference is organized under the auspices of the PACLIC Steering Committee.</p>
@@ -29,7 +29,7 @@ title: Home
 
 
 
-Hosted by [Institute for the Study of Language and Information, Kyung Hee University]([http://www.lib.uidaho.edu/](http://isli.khu.ac.kr)), {{ site.pub_year }}.
+Hosted by [Institute for the Study of Language and Information, Kyung Hee University](http://isli.khu.ac.kr), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
