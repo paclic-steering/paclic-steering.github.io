@@ -1,5 +1,5 @@
 ---
-title: About
+title: Steering Committee
 nav: true
 ---
 
