@@ -112,3 +112,25 @@ example 2 (multiple authors), Yasunari Harada; Coe, Jae-Woong
   - ISI Indexing: The local organizing team should send one paper-bound volume (if applicable) and one electronic version to the ISI office for indexing.
   - SCOPUS Indexing: The local organizing team should contact the SCOPUS office for indexing.
   - physical archiving: The local organizing team should donate one copy to be kept at the university library of the conference host institution, if applicable. Another copy should be sent to the British Library to be included in the databases Proceedings First. Ohio State University Libraries welcome PACLIC proceedings volumes.
+
+Program organizations:
+
+- sessions:
+  In order to promote interactions among researchers working in related but different research fields regarding languages in the Pacific-Asia and other areas of the world, it is desirable that the main conference program run along single plenary sessions, although the local organizing committee should make the final decisions. Recent increase in paper submission seems to necessitate multi-track program organization.
+  - Setting up poster and/or interactive and/or student sessions are encouraged.
+  - Setting up multiple para-sessions are not encouraged but seems unavoidable.
+- “Keynote Speaker(s)” and “Invited Papers”:
+   Organizers should consult among themselves and with the Steering Committee members regarding recommendation and selection of “Keynote Speaker(s)” and “Invited Papers.”
+  - One up to three “Keynote Speaker(s)” should be invited to give a talk in the conference, depending on funding. Round trip travel expenses, local accommodation and daily expenses should be covered and the registration fee(s) should be waived. Local organizers can consider one from within the host country/region both to reduce cost and to promote local research excellence.
+  - Around three “Invited Papers” should be selected in the conference. The registration fees for one presenter of “invited papers” should be waived and if funding allows accommodation and daily expenses could be covered. “Invited papers” are typically invited to increase visibility and impact of outstanding and/or promising academic leaders from within the PACLIC community. Invited papers are required to submit full papers to PACIC proceedings.
+
+Considerations when choosing conference sites:
+
+- local support in terms of funding and facilities
+- location: international access to the conference venue and cost for attending the meeting, such as air-tickets, hotels, conference fee, taxi fares, food and so on
+- local attractions and potential for pre- and post-conference activities
+- past records of hosting international conferences
+- proposed conference programs
+- other touristic issues such as visa applications, environment, health issues and so on
+- rotation:
+  Initially, PACLIC conferences rotated among Hong Kong, Korea, Singapore, Taiwan and Japan, and continued with occasional changes of orders and insertion of other sites. Recently, China, Philippines and Indonesia joined in the rotation.
