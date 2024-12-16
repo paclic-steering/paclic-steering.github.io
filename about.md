@@ -1,76 +1,259 @@
 ---
-title: Prep
+title: About
 nav: true
 ---
 
-# Workshop Prep
+# Organization
 
-To create your own materials using `workshop-template`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
-Basic familiarity with the GitHub web interface will be helpful.
+         <!-- .entry-header -->
 
-For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/) and [Try Git](https://try.github.io/).
+                        <div class="entry-content">
+                            <p>
+                                <strong>Standing Members</strong>
+                                 (in alphabetic order of surnames)
+                            </p>
+                            <ul>
+                                <li>
+                                    Chu-Ren Huang, The Hong Kong Polytechnic University, Hong Kong [
+                                    <a href="http://158.132.124.177/~churenhuang/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>
+                                    Jong-Bok Kim, Kyung Hee University, Seoul [
+                                    <a href="http://web.khu.ac.kr/~jongbok/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>
+                                    Ryo Otoguro, Waseda University, Tokyo [
+                                    <a href="http://otoguro.net/eng/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>Rachel Edita O. Roxas, National University, Manila</li>
+                                <li>
+                                    Maosong Sun, Tsinghua University, Beijing [
+                                    <a href="http://www.csai.tsinghua.edu.cn/researchers/en_researchers_lab/sunmaosong.shtm" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>
+                                    Benjamin T&#8217;sou, City University of Hong Kong, Hong Kong [
+                                    <a href="http://www.cityu.edu.hk/cityu/about/professors/professor-benjamin-tsou.htm" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>
+                                    Min Zhang, Soochow University, Suzhou [
+                                    <a href="http://minzhang-riic.weebly.com/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                            </ul>
+                            <p>
+                                <strong>Ex Officio Members</strong>
+                            </p>
+                            <ul>
+                                <li>Shirley Dita, De La Salle University, Manila [in charge of PACLIC 36, 2022]</li>
+                                <li>Hu Kaibao, Shanghai International Studies University, Shanghai [since November 8th until PACLIC 36 (2021)]</li>
+                                <li>
+                                    Yasunari Harada, Waseda University, Tokyo (Digital Archivist) [
+                                    <a href="http://www.f.waseda.jp/harada/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-It is possible to create a website with this template using only GitHub's web interface--it works great!
-However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
+                                    [since December 8th, 2004 until the end of the project]
+                                </li>
+                                <li>
+                                    Ryo Otoguro, Waseda University, Tokyo (Associate Digital Archivist) [
+                                    <a href="http://otoguro.net/eng/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-1. Have a [GitHub](https://github.com) account.
-2. Fork or import this [repository](https://github.com/evanwill/workshop-template).
-3. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
+                                    [since November 5th, 2010 until the end of the project]
+                                </li>
+                            </ul>
+                            <p>
+                                <strong>Former Liaison Person</strong>
+                            </p>
+                            <ul>
+                                <li>Pornsiri Singhapreecha, Thammasat University, Bangkok</li>
+                            </ul>
+                            <p>
+                                <strong>Emeritus Members</strong>
+                                 (in alphabetic order of surnames)
+                            </p>
+                            <ul>
+                                <li>Akira Ikeya, Tokyo Gakugei University, Tokyo</li>
+                                <li>
+                                    Kiyong Lee, Korea University, Seoul [
+                                    <a href="http://www.linguistik.uni-erlangen.de/~klee/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>
+                                    Kim Teng Lua, Chinese and Oriental Languages Information Processing Society, Singapore [
+                                    <a href="http://www.colips.org/member/luakt" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                            </ul>
+                            <p>
+                                <strong>Former Standing Members</strong>
+                                 (in alphabetic order of surnames)
+                            </p>
+                            <ul>
+                                <li>
+                                    Hee-Rahk Chae, Hankuk University of Foreign Studies, Seoul [
+                                    <a href="http://maincc.hufs.ac.kr/~hrchae/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>
+                                    Jae-Woong Choe, Korea University, Seoul [
+                                    <a href="http://faculty.korea.ac.kr/jchoe" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>
+                                    Yasunari Harada, Waseda University, Tokyo [
+                                    <a href="http://www.f.waseda.jp/harada/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                </li>
+                                <li>Kei Yoshimoto, Tohoku University</li>
+                            </ul>
+                            <p>
+                                <strong>Former Ex Officio Members</strong>
+                                 (in chronological order of appointments)
+                            </p>
+                            <ul>
+                                <li>
+                                    Donghong Ji, Institute for Infocomm Research, Singapore (PACLIC 17 Program Committee Chair)
+                                    <br/>
 
-# Local Jekyll Setup [optional]
+                                    [since January, 2003 until December 8th, 2004]
+                                </li>
+                                <li>
+                                    Yasunari Harada, Waseda University, Tokyo (PACLIC 18 Organizing Committee Chair) [
+                                    <a href="http://www.f.waseda.jp/harada/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-## Install Git
+                                    [since October 2nd, 2003 until December 2nd, 2005]
+                                </li>
+                                <li>
+                                    Jhing-fa Wang, National Cheng-kung University, Tainan (PACLIC 19 Program Committee Chair)
+                                    <br/>
 
-[Git](https://git-scm.com/) is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [distributed](https://en.wikipedia.org/wiki/Distributed_version_control) version control system. [GitHub](https://github.com/) is a Git repository hosting service, a place to store and sync your work in the cloud--your Jekyll and GitHub Pages projects will be under Git version control, so you need the software on your machine. 
+                                    [since December 8th, 2004 until November 1st, 2006]
+                                </li>
+                                <li>
+                                    He Tingting, Huazhong Normal University, Wuhan (PACLIC 20 Local Organizing Committee Co-chair)
+                                    <br/>
 
-- Windows: install [Git for Windows](https://git-for-windows.github.io/) using the default options. This will give you Git, Git Bash, and Git GUI. Git Bash is a great terminal that lets you use UNIX style commands on Windows.
-- Mac: check if Git is already installed by opening terminal and typing `git --version`. If you do not have it, download the official [Mac installer](https://git-scm.com/downloads).
-- Linux: check if Git is already installed by opening terminal and typing `git --version`. If you do not have it, install from your distribution's software center or package manager (for Ubuntu `sudo apt install git`).
+                                    [since December 2nd, 2005 until November 2nd, 2007]
+                                </li>
+                                <li>
+                                    Hee-Rahk Chae, Hankuk University of Foreign Studies, Seoul (PACLIC 21 Program Committee Chair) [
+                                    <a href="http://maincc.hufs.ac.kr/~hrchae/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-If you are interested in using a visual GUI application integrated with GitHub, Windows and Mac users should also install [GitHub Desktop](https://desktop.github.com/) using the default options.
-You can install GitHub Desktop in addition to other versions of Git.
+                                    [since November 1st, 2006 until November 20th, 2008]
+                                </li>
+                                <li>
+                                    Rachel Edita O. Roxas, De La Salle University, Manila (PACLIC 22 Program Committee Chair)
+                                    <br/>
 
-There are other [GUI apps available](https://git-scm.com/downloads/guis) for managing and visualizing Git repositories, including Linux options.
+                                    [since November 2nd, 2007 until December 3rd, 2009]
+                                </li>
+                                <li>
+                                    Olivia Kwong, Hong Kong (PACLIC 23 Program Committee Chair Chair)
+                                    <br/>
 
-## Install Ruby
+                                    [since November 20th, 2008 until November 5th, 2010]
+                                </li>
+                                <li>
+                                    Kei Yoshimoto, Tohoku University, Sendai (PACLIC 24 Local Organizer)
+                                    <br/>
 
-[Ruby](https://www.ruby-lang.org/en/) is a fairly young and developing programming language with some unique features. 
-To use Jekyll, you do not need to know anything about Ruby, but if you are curious, check out [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/).
-Frustratingly, different versions have many dependency and incompatibility problems.
-Because of these issues, many use Ruby Managers, such as [RVM](http://rvm.io/), to switch between versions.
-However, if you are just interested in working with Jekyll, using an installer for your OS should be sufficient.
-Jekyll requires a Ruby version > 2.2.5.
+                                    [since December 3rd, 2009 until December 17th, 2011]
+                                </li>
+                                <li>
+                                    Francis Bond, Nanyang Technological University, Singapore (PACLIC 25 Local Organizer) [
+                                    <a href="http://www3.ntu.edu.sg/home/fcbond/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-- **Windows:** Use [RubyInstaller for Windows](https://rubyinstaller.org/). 
-    - First, [download](https://rubyinstaller.org/downloads/) the suggested stable version "WITH DEVKIT" (as of this writing, Ruby+Devkit 2.4.X (x64)) and double click to install. Use the install defaults, but make sure "Add Ruby executables to your PATH" is checked. On the final step, ensure the box to start the MSYS2 DevKit is checked.
-    - Second, the installer will open a terminal window with options to install MSYS2 DevKit components. Choose option 3, "MSYS2 and MINGW development toolchain", or simply press ENTER to install all the necessary dependencies. (This installer can be restarted by typing `ridk install` into a command prompt)
-- **Mac:** OS X has a version of Ruby installed by default. Check the version with `ruby -v`. If it is > 2.2.5 you can use the system Ruby. However, a newer version can be installed using [Homebrew](https://brew.sh/), `brew install ruby`, or a manager such as [rbenv](https://github.com/rbenv/rbenv) or [RVM](http://rvm.io/). Check the official Jekyll [Mac install docs](https://jekyllrb.com/docs/installation/#macOS) for tips.
-- **Linux:** Even though the version will not be the most up-to-date, the simplest method is to use your distro's repositories. For example on Ubuntu, `sudo apt install ruby-full`. Make sure the repository version is > 2.2.5. You will also need the build tools Make and GCC, on Ubuntu get them with `sudo apt install build-essential`. For a more up-to-date version, use a manager such as [RVM](http://rvm.io/).
+                                    [since November 5th, 2010 until November 8th, 2012]
+                                </li>
+                                <li>
+                                    Ruli Manurung, University of Indonesia, Depok (PACLIC 26 Local Organizer) [
+                                    <a href="http://staf.cs.ui.ac.id/~maruli/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-## Install Jekyll
+                                    [since December 17th, 2011 until PACLIC 27]
+                                </li>
+                                <li>
+                                    Huei-Ling Lai, National Chengchi University, Taipei (PACLIC 27 Local Organizer) [
+                                    <a href="http://www3.nccu.edu.tw/~hllai/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-> Note: Jekyll does not officially support Windows, however it is cross platform (they just don’t officially write windows documentation or check for bugs). 
-> There is a [Jekyll on Windows](https://jekyllrb.com/docs/windows/#installation) page, but it can be out of date and inaccurate.
+                                    [since December 17th, 2011 until PACLIC 28]
+                                </li>
+                                <li>
+                                    Wirote Aroonmanakun, Chulalongkorn University, Bangkok (PACLIC 28 Local Organizer) [
+                                    <a href="http://pioneer.chula.ac.th/~awirote/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-Jekyll is a Gem, a software package installed via Ruby's management system called RubyGems (similar to Python's Pip). 
-Open a terminal and type:
-`gem install jekyll bundler`
+                                    [since November 23rd, 2013 until PACLIC 29]
+                                </li>
+                                <li>
+                                    Hai Zhao, Shanghai Jiao Tong University, Shanghai (in charge of PACLIC 29,  2015) [
+                                    <a href="http://bcmi.sjtu.edu.cn/~zhaohai/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-This will take a minute as Gem installs all the dependencies and builds extensions. 
+                                    [since November 23rd, 2013 until PACLIC 30]
+                                </li>
+                                <li>
+                                    Jong-Bok Kim, Kyung Hee University, Seoul (in charge of PACLIC 30, 2016) [
+                                    <a href="http://web.khu.ac.kr/~jongbok/" target="_blank" rel="noopener noreferrer">Web</a>
+                                    ]
+                                    <br/>
 
-> Note: Linux users may need to `sudo`, to avoid this install Ruby using [RVM](http://rvm.io/).
-> On Windows, if `gem` returns an error about secure connections, it may be necessary to update to a newer version of RubyGems as some versions have out of date SSL certificates.
-> Manually install the newer version by downloading the [RubyGems zip package](https://rubygems.org/pages/download#formats).
-> Unzip the package, then run `ruby setup.rb` in the directory.
+                                    [since December 13th, 2014 until PACLIC 31 (2017)]
+                                </li>
+                                <li>
+                                    Rachel Edita O. Roxas, National University, Manila (in charge of PACLIC 31, 2017)
+                                    <br/>
 
-# Text Editor
+                                    [since October 29th, 2015 until PACLIC 32 (2018)]
+                                </li>
+                                <li>
+                                    Yu-Yin Hsu, Hong Kong Polytechinic University, Hong Kong (in charge of PACLIC 32, 2018)
+                                    <br/>
 
-When working with code you should have a good text editor.
-Windows notepad does not handle UTF-8 encoding or UNIX line endings that are standard for cross platform applications. 
-For basic editing, Windows [Notepad++](https://notepad-plus-plus.org/), Mac TextEdit, or Linux Gedit are sufficient.
-However, a more complete code editor will be helpful for managing Jekyll projects.
+                                    [since November 16th, 2017 until PACLIC 33 (2019)]
+                                </li>
+                                <li>
+                                    Yao Yao, Hong Kong Polytechinic University, Hong Kong (in charge of PACLIC 32, 2018)
+                                    <br/>
 
-Open-source cross platform suggestions:
+                                    [since November 16th, 2017 until PACLIC 33 (2019)]
+                                </li>
+                                <li>
+                                    Ryo Otoguro, Waseda University, Tokyo (in charge of PACLIC 33, 2019)
+                                    <br/>
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Atom](https://atom.io/)
+                                    [since December 1st, 2018 until PACLIC 34 (2020)]
+                                </li>
+                                <li>
+                                    Yasuhiro Katagiri, Future University Hakodate, Hakodate (in charge of PACLIC 33, 2019)
+                                    <br/>
+
+                                    [since December 1st, 2018 until PACLIC 34 (2020)]
+                                </li>
+                                <li>
+                                    Nguyen Thi Minh Huyen, Hanoi University of Science, Hanoi (in charge of PACLIC 34, 2020)
+                                    <br/>
+
+                                    [since September 13th, 2019 until PACLIC 35 (2021)]
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- .entry-content -->
