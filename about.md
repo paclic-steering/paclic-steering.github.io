@@ -74,3 +74,15 @@ Former Ex Officio Members (in chronological order of appointments):
 [since December 1st, 2018 until PACLIC 34 (2020)]
 - Nguyen Thi Minh Huyen, Hanoi University of Science, Hanoi (in charge of PACLIC 34, 2020)
 [since September 13th, 2019 until PACLIC 35 (2021)]
+
+# Mission Statement
+
+[This version is under consideration. Not all members have agreed to the content and/or wording of the passage below.]
+
+The long tradition of PACLIC conferences emphasizes the synergy of theoretical analysis and processing of language – from theoretical frameworks to cognitive accounts, from lexical processing to language understanding, and from computational modelling to multi-lingual applications.
+
+The most important purpose of PACLIC conferences is to provide a forum where researchers in different fields of language study in different areas in the Pacific-Asia region working on issues pertaining to different languages can come together and talk, get to know each other, learn old wisdom, be enlightened by new insights and generally get entertained intellectually, and come home ready to initiate a new research program with new research partners in a new state of mind.
+
+We are well aware that around the world and within the Pacific-Asia region, there are more linguistics conferences and workshops than one can care to attend and more NLP meetings than one can submit abstracts to. On the other hand, if you are working on the border of two or more fields, like contrasting Japanese and Korean reciprocals, or working on trilingual corpus of Chinese, English and Russian, sometimes it’s hard to get the right kind of audience.
+
+Thus, PACLIC aims to be a series of ‘cross-cultural’ events. We value hybrid talks on linguistic principles and implementation details, massive data collection and extraction of abstract rules, automated proficiency evaluation and philosophical contemplation on language learning, although pure theory and pure technology will also be appreciated. We welcome bi-lingual or multi-lingual research, while due respects will be paid to mono-lingual research.
