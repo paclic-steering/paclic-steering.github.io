@@ -1,5 +1,5 @@
 ---
-title: Proceedings
+title: Misc
 nav: true
 ---
 
