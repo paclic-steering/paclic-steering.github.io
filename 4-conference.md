@@ -18,13 +18,13 @@ Since the 18th Pacific Asia Conference on Language, Information and Computation,
  - The 38th Pacific Asia Conference on Language, Information and Computation (PACLIC 38)
  - Dates: December 7-9, 2024
  - Venue: Tokyo University of Foreign Studies (TUFS), Japan
- - Website: [https://www.paclic2022.net/](https://sites.google.com/view/paclic38)
+ - Website: [https://sites.google.com/view/paclic38](https://sites.google.com/view/paclic38)
    
 ### 2023
  - The 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37)
  - Dates: December 2–5, 2023
  - Venue: The Hong Kong Polytechnic University, Hong Kong
- - Website: [https://www.paclic2022.net/](https://paclic2023.github.io/)
+ - Website: [https://paclic2023.github.io/](https://paclic2023.github.io/)
    
 ### 2022
  - The 36th Pacific Asia Conference on Language, Information and Computation (PACLIC 36)
