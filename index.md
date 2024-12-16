@@ -6,25 +6,32 @@ title: Home
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-A minimal Jekyll theme for creating workshop websites.
+Since the 18th Pacific Asia Conference on Language, Information and Computation, each PACLIC conference is organized under the auspices of the PACLIC Steering Committee.
 
-*Add your workshop abstract here!*
+ <div class="entry-content">
+                            <p>Since the 18th Pacific Asia Conference on Language, Information and Computation, each PACLIC conference is organized under the auspices of the PACLIC Steering Committee.</p>
+                            <ul>
+                                <li style="list-style-type: none;">
+                                    <ul>
+                                        <li>
+                                            PACLIC 36 (2022): The 36th Pacific Asia Conference on Language, Information and Computation
+                                            <ul>
+                                                <li>Dates: October 20-22, 2022 (tentative)</li>
+                                                <li>Venue: De La Salle University, the Philippines</li>
+                                                <li>
+                                                    Website: 
+                                                    <a href="https://www.paclic2022.net/" target="_blank" rel="noopener">https://www.paclic2022.net/</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
 
-<div class="toc" markdown="1">
-## Contents:
-
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
-
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by [Institute for the Study of Language and Information, Kyung Hee University]([http://www.lib.uidaho.edu/](http://isli.khu.ac.kr)), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
