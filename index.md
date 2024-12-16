@@ -18,7 +18,7 @@ title: Home
                                                 <li>Venue: Tokyo University of Foreign Studies (TUFS), Tokyo, Japan</li>
                                                 <li>
                                                     Website: 
-                                                    <a href="https://sites.google.com/view/paclic38" target="_blank" rel="noopener">[https://www.paclic2022.net/](https://sites.google.com/view/paclic38)</a>
+                                                    <a href="https://sites.google.com/view/paclic38" target="_blank" rel="noopener">https://sites.google.com/view/paclic38</a>
                                                 </li>
                                             </ul>
                                         </li>
