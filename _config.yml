@@ -11,12 +11,10 @@
 title: PACLIC Steering Committee
 # description and keywords for meta tags
 description: "Pacific Asia Conference on Language, Information and Computation"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: paclic steering committee
+pub_year: 2024
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
