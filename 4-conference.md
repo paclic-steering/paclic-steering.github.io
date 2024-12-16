@@ -2,6 +2,13 @@
 title: Conferences
 nav: true
 ---
+# Upcoming Meetings
+
+### 2025
+ - The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 39)
+ - Dates: December, 2025
+ - Venue: Vietnam
+ - 
 # Past Meetings
 
 Since the 18th Pacific Asia Conference on Language, Information and Computation, each PACLIC conference is organized under the auspices of the PACLIC Steering Committee.
