@@ -1,5 +1,5 @@
 ---
-title: Past
+title: Archive
 nav: true
 ---
 
