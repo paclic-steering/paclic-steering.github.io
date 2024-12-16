@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Workshop Template!
+# Recent PACLIC conference
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
