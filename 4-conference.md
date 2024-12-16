@@ -2,7 +2,7 @@
 title: Conferences
 nav: true
 ---
-# Upcoming Meetings
+# Upcoming Meeting
 
 ### 2025
  - The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 39)
