@@ -18,9 +18,6 @@ author: evan will
 pub_year: 2018
 github_username: evanwill
 
-# add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
-
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
 # When using github pages just leave these blank!
