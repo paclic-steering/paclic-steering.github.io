@@ -5,7 +5,7 @@ nav: true
 ## Visit ACL Anthology:
 - [https://aclanthology.org/venues/paclic/](https://aclanthology.org/venues/paclic/)
 
-# Proceedings Links
+## Proceedings Links
   
 ### [Proceedings of the 38th Pacific Asia Conference on Language, Information and Computation (PACLIC 38, 2024)]()
 
@@ -13,7 +13,7 @@ nav: true
 
 ### [Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation (PACLIC 36, 2022)]()
 
-# Past Proceedings
+## Past Proceedings
 ### Before 2024
 To learn A Personal Interim Report on the PACLIC Proceedings Digital Archive Project, visit [the site](https://github.com/evanwill/workshop-template/blob/main/README.md) from Waseda University.
 
