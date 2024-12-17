@@ -9,35 +9,14 @@ Standing Members (in alphabetic order of surnames):
 
 - Chu-Ren Huang, The Hong Kong Polytechnic University, Hong Kong 
 - Jong-Bok Kim, Kyung Hee University, Seoul 
-- Ryo Otoguro, Waseda University, Tokyo 
-- Rachel Edita O. Roxas, National University, Manila 
-- Maosong Sun, Tsinghua University, Beijing 
-- Benjamin T’sou, City University of Hong Kong, Hong Kong 
-- Min Zhang, Soochow University, Suzhou
-
+- Yasunari Harada, Waseda University, Tokyo
+- Rachel Edita O. Roxas, National University, Manila
+  
 Ex Officio Members:
 
-- Shirley Dita, De La Salle University, Manila [in charge of PACLIC 36, 2022]
-- Hu Kaibao, Shanghai International Studies University, Shanghai [since November 8th until PACLIC 36 (2021)]
-- Yasunari Harada, Waseda University, Tokyo (Digital Archivist) [since December 8th, 2004 until the end of the project]
-- Ryo Otoguro, Waseda University, Tokyo (Associate Digital Archivist) [since November 5th, 2010 until the end of the project]
-
-Former Liaison Person:
-
-- Pornsiri Singhapreecha, Thammasat University, Bangkok
-
-Emeritus Members (in alphabetic order of surnames):
-
-- Akira Ikeya, Tokyo Gakugei University, Tokyo
-- Kiyong Lee, Korea University, Seoul [Web]
-- Kim Teng Lua, Chinese and Oriental Languages Information Processing Society, Singapore 
-
-Former Standing Members (in alphabetic order of surnames):
-
-- Hee-Rahk Chae, Hankuk University of Foreign Studies, Seoul [Web]
-- Jae-Woong Choe, Korea University, Seoul [Web]
-- Yasunari Harada, Waseda University, Tokyo [Web]
-- Kei Yoshimoto, Tohoku University
+- Shirley Dita, De La Salle University, Manila 
+- Ryo Otoguro, Waseda University, Tokyo 
+- Huyen Thi Minh Nguyen, Vietnam National University, Hanoi, Vietnam
 
 Former Ex Officio Members (in chronological order of appointments):
 
