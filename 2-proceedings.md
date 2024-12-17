@@ -2,8 +2,10 @@
 title: Proceedings
 nav: true
 ---
-# Visit ACL Anthology:
+## Visit ACL Anthology:
 - [https://aclanthology.org/venues/paclic/](https://aclanthology.org/venues/paclic/)
+
+# Proceedings Links
   
 ### [Proceedings of the 38th Pacific Asia Conference on Language, Information and Computation (PACLIC 38, 2024)]()
 
