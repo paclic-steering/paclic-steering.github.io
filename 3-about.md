@@ -1,5 +1,5 @@
 ---
-title: Guidelines
+title: About
 nav: true
 ---
 # PACLIC Proceedings Submission
