@@ -1,6 +1,6 @@
 ---
 title: Publication ethics
-nav: true
+nav: false
 ---
  
 # Guidelines and Conventional Wisdom
