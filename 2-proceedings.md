@@ -5,6 +5,8 @@ nav: true
 ## Visit ACL Anthology:
 - [https://aclanthology.org/venues/paclic/](https://aclanthology.org/venues/paclic/)
 
+### [Publication Ethics](/ethics)
+
 ## PACLIC Proceedings Submission
 
 Submissions should be written in readable and plain English and may be up to eight (8) pages long, including text, figures and tables, plus reference without page limit. For example, the main content, except the reference, of your paper takes the full 8 pages, and you have your reference part up to 3, or more pages. Submissions will be judged based on reviewer scores for relevance to the conference, originality of the research, technical and theoretical soundness, adequacy of reference and discussion of previous study, clarity and readability, and potential interest to the attendees. Accepted papers will be presented in either regular sessions or poster sessions as determined by the program committee. As the reviewing process will be anonymous, submissions must not include the authors' names and affiliations; any possibilities to reveal authors' identities in the submissions should be avoided. Submissions that do not conform to these requirements could be rejected without review. Details for formatting, along with appropriate style files, can be found in the following:
