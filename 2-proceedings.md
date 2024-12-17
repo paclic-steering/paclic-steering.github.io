@@ -36,7 +36,7 @@ Published by [Institute for the Study of Language and Information, Kyung Hee Uni
     Editors: Chu-Ren Huang, Yasunari Harada, Jong-Bok Kim, Si Chen, Yu-Yin Hsu, Emmanuele Chersoni, Pranav A, Winnie Huiheng Zeng, Bo Peng, Yuxi Li, Junlin Li
 
 ### [Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation]()
-    2023
+    2022
     De La Salle University
     October 20-22, 2022
     Editors: Shirley Dita, Arlene O. Trillanes, Rochelle Irene Lucas
