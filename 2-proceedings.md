@@ -21,16 +21,28 @@ Submissions should be written in readable and plain English and may be up to eig
  
 Published by [Institute for the Study of Language and Information, Kyung Hee University](http://isli.khu.ac.kr), {{ site.pub_year }}.
  
-## Proceedings Links
+## Archives
   
-### [Proceedings of the 38th Pacific Asia Conference on Language, Information and Computation (PACLIC 38, 2024)]()
+### [Proceedings of the 38th Pacific Asia Conference on Language, Information and Computation]()
+    2024
+    Tokyo University of Foreign Studies (TUFS)
+    December 7-9, 2024
+    Editors: 
 
-### [Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37, 2023)]()
+### [Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation]()
+    2023
+    The Hong Kong Polytechnic University
+    December 2-5, 2023
+    Editors: Chu-Ren Huang, Yasunari Harada, Jong-Bok Kim, Si Chen, Yu-Yin Hsu, Emmanuele Chersoni, Pranav A, Winnie Huiheng Zeng, Bo Peng, Yuxi Li, Junlin Li
 
-### [Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation (PACLIC 36, 2022)]()
+### [Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation]()
+    2023
+    De La Salle University
+    October 20-22, 2022
+    Editors: Shirley Dita, Arlene O. Trillanes, Rochelle Irene Lucas
 
 ## Past Proceedings
-### Before 2024
+### Before 2022
 To learn A Personal Interim Report on the PACLIC Proceedings Digital Archive Project, visit [the site](https://github.com/evanwill/workshop-template/blob/main/README.md) from Waseda University.
 
 
