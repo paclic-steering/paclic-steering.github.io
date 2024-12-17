@@ -53,6 +53,7 @@ Former Ex Officio Members (in chronological order of appointments):
 [since December 1st, 2018 until PACLIC 34 (2020)]
 - Nguyen Thi Minh Huyen, Hanoi University of Science, Hanoi (in charge of PACLIC 34, 2020)
 [since September 13th, 2019 until PACLIC 35 (2021)]
+- Hu Kaibao, Shanghai International Studies University, Shanghai [since November 8th until PACLIC 36 (2021)]
 
 # Mission Statement
 
