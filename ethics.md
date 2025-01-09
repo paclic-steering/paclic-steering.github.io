@@ -3,6 +3,10 @@ title: Publication ethics
 nav: false
 ---
  
+## Ethics Policy
+
+Authors are required to honor the ethical code set out in the ACL Code of Ethics. The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work.
+
 # Guidelines and Conventional Wisdom
 
 Through experience and discussions among the Steering Committee members, the following traditions have been formed to facilitate organization of PACLIC conferences and publication of the proceedings volumes.
