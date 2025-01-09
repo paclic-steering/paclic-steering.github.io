@@ -2,6 +2,8 @@
 title: Proceedings
 nav: true
 ---
+### Proceedings of the Pacific Asia Conference on Language, Information and Computation (PACLIC) 
+### ISSN 2619-7782
 ## Visit ACL Anthology:
 - [https://aclanthology.org/venues/paclic/](https://aclanthology.org/venues/paclic/)
 
